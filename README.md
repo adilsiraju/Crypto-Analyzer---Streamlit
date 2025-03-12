@@ -1,1 +1,1 @@
-# Crypto-Analyzer---Streamlit
+# Crypto Analyzer Streamlit
